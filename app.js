@@ -1,7 +1,7 @@
 const express = require("express")
 const server = express()
 const http = require("http").Server(server)
-const port = 443
+const port = 4269
 
 server.get("/", (req, res) => {
   res.redirect("https://betterrickrollredirect.github.io/")
