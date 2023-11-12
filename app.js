@@ -10,4 +10,4 @@ server.get("/", (req, res) => {
 
 http.listen(port, () => {
   console.log("listening")
-});
+})
