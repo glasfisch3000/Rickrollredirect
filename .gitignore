@@ -130,5 +130,5 @@ dist
 .DS_Store
 */.DS_Store
 
-# log files
-log/*
+# detached logs
+log
